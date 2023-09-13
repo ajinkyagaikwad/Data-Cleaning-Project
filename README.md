@@ -19,6 +19,7 @@ Inconsistent formatting - This was observed across different columns making it n
 2. The Heights and Weights columns each had values stored in different units
 
 **Tools Used**
+
 For the data cleaning project, the following tools and libraries were used:
 1. **Python** for data cleaning tasks.
 2. **Pandas** was instrumental in data manipulation, cleaning and handling missing values.
@@ -26,6 +27,7 @@ For the data cleaning project, the following tools and libraries were used:
 4. **Jupyter Notebooks** provided an interactive environment for code development, exploration and documentation.
 
 **Data Cleaning Process**
+
 The data cleaning process involved the following steps:
 1. **Data Understanding** - The dataset was thoroughly examined to understand the structure, columns and their meanings. The data did not have a data dictionary attached. With the help of online sources I was able to create one that helped me gain an understanding of what all the columns represented.
 2. **Data Exploration** - Exploratory Data Analysis was performed to gain insights into the data, identify patterns and uncover anomalies.
